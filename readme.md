@@ -41,14 +41,14 @@ I'm an Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/) pursuing CS
 
 ## ⚡ A Few Quick Facts
 
-- 🌱 I’m learning Python
+- 🌱 I’m learning Java
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  I enjoy working on
   - 📊 Full Stack Web-Developement
   - 🖼 Computer Vision
   - 🛠 MERN Stacks
-- 💬 Ask me about Java, Web Develoment, Python
+- 💬 Ask me about Java, Web Develoment, WebApps.
 - 🎉 Fun-Fact: I ❤ to read Manga/Manwa and watch anime and Sci-Fi Movies🎬
 
  
